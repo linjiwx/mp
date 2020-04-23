@@ -1,4 +1,4 @@
-#  
+#  matplotlib 的主要组成元素
 
 ![ ](https://mmbiz.qpic.cn/mmbiz_png/giaycic3UNwo1d0OsmJPa1qlBa9pxzZSLQ09bwiaAJLkU4C0KoI5AOBcfo91MFkTtIbJuT9OsNw7sj0IFbDXYDLQA/0?wx_fmt=png)
 
