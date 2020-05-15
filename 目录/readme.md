@@ -86,6 +86,8 @@
 
 [用子弹图进行对比分析](https://mp.weixin.qq.com/s/UGugJfL-cAa3ryP15VrmjQ)
 
+[用柱形图进行对比分析](https://mp.weixin.qq.com/s/G78MNwpJAPt9V4KZLwjg5w)
+
 
 
 **其他暂未包含在电子书中的文章**
